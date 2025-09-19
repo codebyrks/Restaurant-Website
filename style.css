@@ -75,6 +75,7 @@ li a:hover{
     text-align: center;
     padding-bottom: 100px;
     color: wheat;
+    text-shadow: 2px 2px 4px #000000;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 50px;
     background-image:url('chef-images/cafe-img.png');
