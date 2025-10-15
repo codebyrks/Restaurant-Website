@@ -1,38 +1,34 @@
-# Teen's Taste – Restaurant Website
+# 🍽️ Teen's Taste – Restaurant Website
 
-![Website](https://img.shields.io/badge/status-in%20progress-orange)
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-## Overview
-**Teen's Taste** is a simple restaurant website built using **HTML** and **CSS**.  
-The website is designed to showcase the restaurant's menu with dynamic food filter and about section with story and chef profiles.  
-> Note: The dynamic food filter feature using JavaScript is **under development** and will be added soon.
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
-## Features (Currently Implemented)
-- Responsive layout using HTML and CSS  
+## 🧾 Overview
+**Teen's Taste** is a responsive and visually appealing **restaurant website** built using **HTML, CSS, and JavaScript**.  
+It showcases a clean menu display, a story-driven About section, and now features a **dynamic food filter** that allows users to easily browse through categories like Veg, Non-Veg, and Dessert.
+
+---
+
+## ✨ Features
+- Fully responsive layout using HTML and CSS  
 - Hero section with welcome message  
-- About Us section with chef profiles 
-- Navigation links scroll smoothly to respective sections  
+- About Us section featuring restaurant story and chef profiles  
+- Smooth scrolling navigation links  
+- Dynamic food menu filter powered by JavaScript  
 
 ---
 
-## Features Coming Soon
-- Dynamic food menu filter by category (Veg / Non-Veg / Dessert) using JavaScript  
+## 🧰 Technologies Used
+- **HTML** – for structure  
+- **CSS** – for design and responsiveness  
+- **JavaScript** – for dynamic menu filtering and interactivity  
 
 ---
 
-## Technologies Used
-- HTML  
-- CSS  
-- (JavaScript coming soon)  
-
----
-
-## How to View
+## 🚀 How to View
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/codebyrks/Restaurant-Website.git
-
+   https://github.com/codebyrks/Restaurant-Website.git
